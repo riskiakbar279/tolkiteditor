@@ -7,7 +7,6 @@
 .colorpicker-saturation {
   width: 200px;
   height: 200px;
-  background-image: url(../img/saturation.png);
   cursor: crosshair;
   float: left;
 }
